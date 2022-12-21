@@ -1,0 +1,1 @@
+# descrete-project1-prime-number
